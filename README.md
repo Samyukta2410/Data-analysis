@@ -1,5 +1,5 @@
-# <font color = 'brown'> Data-Analysis</font>
-> **This repository contains python scripted(jupyter notebook)files on topics related to data analysis** <br/>
+# <font color = 'brown'> Data-Analysis</font><br/>
+**This repository contains python scripted(jupyter notebook)files on topics related to data analysis** <br/>
 
 1. <u>Data Cleaning</u> 
 - This file contains importing datasets, knowing about data, null values and adjusting them <br/>
